@@ -2,6 +2,7 @@
 x++ means x=x+1
 
 doing loops inside a loop is sooooooooooooooooo convoluted!!!!
+
 need more practice
 
 
